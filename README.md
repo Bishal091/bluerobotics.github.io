@@ -5,7 +5,7 @@ This repository is the home to Blue Robotics' product documentation, including p
 
 For more information please visit the actual [documentation site](http://docs.bluerobotics.com/).
 
-#How the Website Works
+How the Website Works
 
 The documentation website uses the [Github Pages feature](https://pages.github.com/) to host the website directly from this repository. The documentation is written in [Markdown](https://help.github.com/articles/markdown-basics/) and uses [Jekyll](http://jekyllrb.com/) to generate the website.
 
